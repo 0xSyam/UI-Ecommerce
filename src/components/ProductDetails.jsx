@@ -4,8 +4,8 @@ import { Star } from 'lucide-react';
 const ProductDetails = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const images = [
-    "src/assets/kursi.jpg",  
-    "src/assets/kursi2.jpg",  
+    "assets/kursi.jpg",  
+    "assets/kursi2.jpg",  
   ];
 
   return (
