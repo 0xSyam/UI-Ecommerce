@@ -7,56 +7,56 @@ const BestsellerProducts = () => {
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/1.jpg" 
+      imgSrc: "/assets/1.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/2.jpg" 
+      imgSrc: "/assets/2.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/3.jpg" 
+      imgSrc: "/assets/3.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/4.jpg" 
+      imgSrc: "/assets/4.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/5.jpg" 
+      imgSrc: "/assets/5.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/6.jpg" 
+      imgSrc: "/assets/6.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/7.jpg" 
+      imgSrc: "/assets/7.jpg" 
     },
     {
       title: "Graphic Design",
       department: "English Department",
       price: "$6.48",
       originalPrice: "$16.48",
-      imgSrc: "src/assets/8.jpg" 
+      imgSrc: "/assets/8.jpg" 
     }
   ];
 
